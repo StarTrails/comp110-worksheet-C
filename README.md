@@ -1,2 +1,19 @@
 # comp110-worksheet-C
-Base repository for COMP110 worksheet C
+
+#### (a)
+
+#### (b)
+
+#### (c)
+
+#### (d)
+
+#### (e)
+
+#### (f)
+
+#### (g)
+
+#### (h)
+
+#### (i)
